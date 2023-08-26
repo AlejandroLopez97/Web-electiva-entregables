@@ -162,6 +162,8 @@ function tienenMismaLongitud(str1, str2) {
     });
     return suma
 
+    //return usuario.posts.reduce((acum, curr) => acum + curr.likes)
+
   }
 
   
